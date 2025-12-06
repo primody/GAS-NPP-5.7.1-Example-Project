@@ -1,16 +1,16 @@
-# GAS-NPP-5.7.1-Example-Project
+# GAS-NPP-Example-Project
 
-This repo is a 5.7.1 version of [GAS-NPP-Simulation](https://github.com/Sabri-Kai/GAS-NPP-Simulation) made by [Sabri-Kai](https://github.com/Sabri-Kai).
+This repo is ready to go versions of [GAS-NPP-Simulation](https://github.com/Sabri-Kai/GAS-NPP-Simulation) made by [Sabri-Kai](https://github.com/Sabri-Kai).
 
-I take no credit for any of this. All I did was create a script to automatically download the required plugins for this example project to run on UE 5.7.1.
+I take no credit for any of this. All I did was create a script to automatically download the required plugins for this example project to run.
 
 ## Setup
 
 Assuming you have Git, clone the repo and run the Powershell script.
 
 ```bash
-git clone https://github.com/primody/GAS-NPP-5.7.1-Example-Project.git
-cd GAS-NPP-5.7.1-Example-Project
+git clone https://github.com/primody/GAS-NPP-Example-Project.git
+cd GAS-NPP-Example-Project
 powershell Scripts/plugin-setup.ps1
 ```
 
